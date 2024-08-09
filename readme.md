@@ -1,4 +1,5 @@
-# Implementation of U-Net based on
+# U-Net
+Implementation of U-Net based on:
 - Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-Net: Convolutional Networks
 for Biomedical Image Segmentation.
 - Zhuang Liu, Hanzi Mao, Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell, Saining Xie. A ConvNet for the 2020s.
